@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.footer{
+    background-color:black;
+    height: 400px;
+    margin-top: 50px;
+}
+.container1{
+    width: 90%;
+    margin: auto;
+    padding: 30px 0px;
+}
+.container1 .swiggy{
+    color: white;
+    
+}
+.container1 .swiggy span{
+    color: orange;
+}
+.footerWrap{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+.box{
+    margin: 20px 0px;
+    line-height: 30px;
+    color: white;
+}
+.box h2{
+    text-transform: uppercase;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.box p{
+    text-transform: capitalize;
+}
+.container1 hr{
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.endtext{
+    color: white;
+}

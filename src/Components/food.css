@@ -1,0 +1,41 @@
+.food-box{
+    width: 300px;
+    border: 1px solid orange;
+    margin-right: 10px;
+    margin-bottom: 35px;
+
+}
+.food-img{
+    width: 270px;
+    height: 200px;
+
+}
+.hotel-name{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.variety{
+    font-size: 16px;
+    text-align: center;
+}
+.food-wrap{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.rating{
+    text-align: left;
+}
+.min{
+    text-align: center;
+}
+.price{
+    text-align: right;
+}
+.offers{
+    text-align: center;
+}
+button{
+    margin: 0px 125px ;
+}
